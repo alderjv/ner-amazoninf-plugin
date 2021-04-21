@@ -1,0 +1,10 @@
+br\amazoninf\plugin\nlp\NerAmazoninfProcessor.class
+br\amazoninf\plugin\nlp\model\IaModel.class
+br\amazoninf\plugin\nlp\ConnectionFactory$1.class
+br\amazoninf\plugin\nlp\NerAmazoninfPlugin.class
+br\amazoninf\plugin\nlp\ModelDao.class
+br\amazoninf\plugin\nlp\NerAmazoninfProcessor$Factory.class
+br\amazoninf\plugin\nlp\verbo\Paradigma.class
+br\amazoninf\plugin\nlp\verbo\Conjugue.class
+br\amazoninf\plugin\nlp\NerAmazoninfService.class
+br\amazoninf\plugin\nlp\ConnectionFactory.class
