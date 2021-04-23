@@ -4,6 +4,7 @@
 .sonar
 bin/
 target/
+target/classes/
 .factorypath
 .directory
 *.iml
