@@ -2,6 +2,7 @@
 .classpath
 .settings/
 .sonar
+.class
 bin/
 target/
 target/classes/
